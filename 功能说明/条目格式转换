@@ -1,7 +1,6 @@
  条目属性转换
 如下图所示
-![image](https://github.com/coralbim/CoralTools/blob/main/Gif/%E6%A0%BC%E5%BC%8F%E5%88%B7.jpg)
- ![image](https://github.com/coralbim/CoralTools/blob/main/Gif/%E6%A0%BC%E5%BC%8F%E5%88%B7.jpg)
+[image](https://github.com/coralbim/CoralTools/blob/main/Gif/%E6%A0%BC%E5%BC%8F%E5%88%B7.jpg)
 当不同的Item type(后文统称条目类型) 具有相同的结构时，期望效果如下图
  
 即将图元已经挂接好的条目类型内容转嫁到指定的条目类型上去，继而删除不必要的条目类型，达到条目类型统一管理，信息挂接完善的目的。
